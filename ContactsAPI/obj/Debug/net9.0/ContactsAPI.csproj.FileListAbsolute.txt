@@ -1,0 +1,72 @@
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.csproj.AssemblyReference.cache
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.AssemblyInfoInputs.cache
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.AssemblyInfo.cs
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.csproj.CoreCompileInputs.cache
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\appsettings.json
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\contacts.json
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\ContactsAPI.staticwebassets.endpoints.json
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\ContactsAPI.exe
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\ContactsAPI.deps.json
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\ContactsAPI.runtimeconfig.json
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\ContactsAPI.dll
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\ContactsAPI.pdb
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\scopedcss\bundle\ContactsAPI.styles.css
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.ContactsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.ContactsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ContactsAPI.props
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ContactsAPI.props
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ContactsAPI.props
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\Contacts.B14F3802.Up2Date
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.dll
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\refint\ContactsAPI.dll
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.pdb
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ContactsAPI.genruntimeconfig.cache
+D:\Interview Proctice Code\R System\ContactsAPI\obj\Debug\net9.0\ref\ContactsAPI.dll
+D:\Interview Proctice Code\R System\ContactsAPI\bin\Debug\net9.0\ContactsAPI.staticwebassets.runtime.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.csproj.AssemblyReference.cache
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.AssemblyInfoInputs.cache
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.AssemblyInfo.cs
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.csproj.CoreCompileInputs.cache
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.sourcelink.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.dll
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\refint\ContactsAPI.dll
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.pdb
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\appsettings.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\ContactsAPI.staticwebassets.endpoints.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\contacts.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\ContactsAPI.staticwebassets.runtime.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\ContactsAPI.exe
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\ContactsAPI.deps.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\ContactsAPI.runtimeconfig.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\ContactsAPI.dll
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\ContactsAPI.pdb
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\scopedcss\bundle\ContactsAPI.styles.css
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.ContactsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.ContactsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ContactsAPI.props
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ContactsAPI.props
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ContactsAPI.props
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\Contacts.B14F3802.Up2Date
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ContactsAPI.genruntimeconfig.cache
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\obj\Debug\net9.0\ref\ContactsAPI.dll
+D:\Interview Proctice Code\ContactsApp\ContactsAPI\bin\Debug\net9.0\Newtonsoft.Json.dll

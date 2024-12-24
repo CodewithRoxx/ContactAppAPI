@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "1ypA5BhqXhxeAUFcjAAcN3kbRwj023K1mdnfHjS02eo=",
+  "Source": "ContactsAPI",
+  "BasePath": "_content/ContactsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContactsAPI\\wwwroot",
+      "Source": "ContactsAPI",
+      "ContentRoot": "D:\\Interview Proctice Code\\ContactsApp\\ContactsAPI\\wwwroot\\",
+      "BasePath": "_content/ContactsAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
